@@ -1,0 +1,7 @@
+
+#menu, #itensMenu a, #catalogo, #catalogoTexto,
+#desconto-comprar, .comprar, .txtComprar span,
+.paginasCatalogo,.botao, .txtBotao span, .produtos,
+.produto, .botaoProduto, .txtBotaoProduto span, #devs, #sobre, #novi{
+    transition-duration: 0.1s;
+}
